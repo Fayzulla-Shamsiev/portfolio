@@ -1,12 +1,24 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal developer portfolio built with **React + Vite** and deployed to **Vercel**.  
+It highlights my profile, skills, experience, projects, and education in an interactive way.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Profile and contact details (GitHub, LinkedIn, email, website)
+- About section with extended description
+- Education with degree details and modal for more info
+- Skills with visual bar indicators
+- Experience and Projects side-by-side
+  - Keyboard navigation (↑/↓ to move, Enter to open, Esc to close)
+  - Click-to-focus for better accessibility
+- Animated background effect and CRT overlay for atmosphere
+- Fully responsive layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **React** (with hooks and components)
+- **Vite** for bundling
+- **TailwindCSS** for styling
+- **Vercel** for deployment
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Link to visit
+https://portfolio-lemon-five-94.vercel.app/

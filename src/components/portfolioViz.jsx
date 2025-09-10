@@ -13,7 +13,7 @@ export default function PortfolioViz() {
       linkedin: "https://www.linkedin.com/in/fayzulla-shamsiev/",
       bio:
         "INNOVATING WITH CODE. DRIVING IMPACT THROUGH TEAMWORK. TURNING PROBLEMS INTO SOLUTIONS.",
-      cvUrl: "src/assets/CV Shamsiev Fayzullakhon.pdf",
+      cvUrl: "https://drive.google.com/file/d/155869tYu4hoelydFwp5ecsyFaCP1tJhD/view?usp=sharing",
       longBio:
   "I’m a Software Engineer who enjoys creating reliable and user-friendly software. I work with technologies like React and Python Django to build intuitive applications, and I’ve recently been diving into low-level development with C++ to deepen my understanding of computer systems and performance.\n\nOutside of coding, I enjoy relaxing with a good movie or book, but I also stay active through football, volleyball, and hiking. I train and compete in Brazilian Jiu-Jitsu, both Gi and No-Gi, regularly taking part in city and national tournaments.",
 
